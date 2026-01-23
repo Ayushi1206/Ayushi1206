@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I'm Ayushi Kumari
 
-<!--
-**Ayushi1206/Ayushi1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science Student (CGPA: 8.7)  
+💻 Aspiring Software Developer with interest in ML & Data Science  
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+- Java, Python, SQL
+- Spring Boot, MySQL
+- Machine Learning (Basics)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- E-Commerce Web Application (Spring Boot)
+- Instagram Sentiment Analysis (ML)
+- AgroShield – AI Crop Health Scanner
+
+### 📫 Contact
+- Email: kayushi488@gmail.com
+
+
+
