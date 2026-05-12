@@ -13,6 +13,7 @@
 - E-Commerce Web Application (Spring Boot)
 - Instagram Sentiment Analysis (ML)
 - AgroShield – AI Crop Health Scanner
+- VotingApp - Online Secure Voting App
 
 ### 📫 Contact
 - Email: kayushi488@gmail.com
