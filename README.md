@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Ayushi Kumari
 
-🎓 B.E. Computer Science Student (CGPA: 8.7)  
+🎓 B.E. Computer Science Student (CGPA: 8.83)  
 💻 Aspiring Software Developer with interest in ML & Data Science  
 
 ### 🛠 Technical Skills
